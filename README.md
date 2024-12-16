@@ -1,4 +1,4 @@
-GROUP 4 - BSIT 3C
+#GROUP 4 - BSIT 3C
 LEADER:
        Herminiano C. Serrano
 
